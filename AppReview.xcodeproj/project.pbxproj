@@ -15,6 +15,27 @@
 		A39E11371F798836004FD7BA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A39E11351F798836004FD7BA /* LaunchScreen.storyboard */; };
 		A39E11421F798836004FD7BA /* AppReviewTests.m in Sources */ = {isa = PBXBuildFile; fileRef = A39E11411F798836004FD7BA /* AppReviewTests.m */; };
 		A39E114D1F798836004FD7BA /* AppReviewUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = A39E114C1F798836004FD7BA /* AppReviewUITests.m */; };
+		A39E115C1F798A71004FD7BA /* BSKeyboardControls.m in Sources */ = {isa = PBXBuildFile; fileRef = A39E115B1F798A71004FD7BA /* BSKeyboardControls.m */; };
+		A39E115D1F798A71004FD7BA /* BSKeyboardControls.m in Sources */ = {isa = PBXBuildFile; fileRef = A39E115B1F798A71004FD7BA /* BSKeyboardControls.m */; };
+		A39E115E1F798A71004FD7BA /* BSKeyboardControls.m in Sources */ = {isa = PBXBuildFile; fileRef = A39E115B1F798A71004FD7BA /* BSKeyboardControls.m */; };
+		A39E116D1F798AD1004FD7BA /* SCLAlertView.m in Sources */ = {isa = PBXBuildFile; fileRef = A39E11611F798AD1004FD7BA /* SCLAlertView.m */; };
+		A39E116E1F798AD1004FD7BA /* SCLAlertView.m in Sources */ = {isa = PBXBuildFile; fileRef = A39E11611F798AD1004FD7BA /* SCLAlertView.m */; };
+		A39E116F1F798AD1004FD7BA /* SCLAlertView.m in Sources */ = {isa = PBXBuildFile; fileRef = A39E11611F798AD1004FD7BA /* SCLAlertView.m */; };
+		A39E11701F798AD1004FD7BA /* SCLAlertViewResponder.m in Sources */ = {isa = PBXBuildFile; fileRef = A39E11631F798AD1004FD7BA /* SCLAlertViewResponder.m */; };
+		A39E11711F798AD1004FD7BA /* SCLAlertViewResponder.m in Sources */ = {isa = PBXBuildFile; fileRef = A39E11631F798AD1004FD7BA /* SCLAlertViewResponder.m */; };
+		A39E11721F798AD1004FD7BA /* SCLAlertViewResponder.m in Sources */ = {isa = PBXBuildFile; fileRef = A39E11631F798AD1004FD7BA /* SCLAlertViewResponder.m */; };
+		A39E11731F798AD1004FD7BA /* SCLAlertViewStyleKit.m in Sources */ = {isa = PBXBuildFile; fileRef = A39E11651F798AD1004FD7BA /* SCLAlertViewStyleKit.m */; };
+		A39E11741F798AD1004FD7BA /* SCLAlertViewStyleKit.m in Sources */ = {isa = PBXBuildFile; fileRef = A39E11651F798AD1004FD7BA /* SCLAlertViewStyleKit.m */; };
+		A39E11751F798AD1004FD7BA /* SCLAlertViewStyleKit.m in Sources */ = {isa = PBXBuildFile; fileRef = A39E11651F798AD1004FD7BA /* SCLAlertViewStyleKit.m */; };
+		A39E11761F798AD1004FD7BA /* SCLButton.m in Sources */ = {isa = PBXBuildFile; fileRef = A39E11671F798AD1004FD7BA /* SCLButton.m */; };
+		A39E11771F798AD1004FD7BA /* SCLButton.m in Sources */ = {isa = PBXBuildFile; fileRef = A39E11671F798AD1004FD7BA /* SCLButton.m */; };
+		A39E11781F798AD1004FD7BA /* SCLButton.m in Sources */ = {isa = PBXBuildFile; fileRef = A39E11671F798AD1004FD7BA /* SCLButton.m */; };
+		A39E11791F798AD1004FD7BA /* SCLTimerDisplay.m in Sources */ = {isa = PBXBuildFile; fileRef = A39E116A1F798AD1004FD7BA /* SCLTimerDisplay.m */; };
+		A39E117A1F798AD1004FD7BA /* SCLTimerDisplay.m in Sources */ = {isa = PBXBuildFile; fileRef = A39E116A1F798AD1004FD7BA /* SCLTimerDisplay.m */; };
+		A39E117B1F798AD1004FD7BA /* SCLTimerDisplay.m in Sources */ = {isa = PBXBuildFile; fileRef = A39E116A1F798AD1004FD7BA /* SCLTimerDisplay.m */; };
+		A39E117C1F798AD1004FD7BA /* UIImage+ImageEffects.m in Sources */ = {isa = PBXBuildFile; fileRef = A39E116C1F798AD1004FD7BA /* UIImage+ImageEffects.m */; };
+		A39E117D1F798AD1004FD7BA /* UIImage+ImageEffects.m in Sources */ = {isa = PBXBuildFile; fileRef = A39E116C1F798AD1004FD7BA /* UIImage+ImageEffects.m */; };
+		A39E117E1F798AD1004FD7BA /* UIImage+ImageEffects.m in Sources */ = {isa = PBXBuildFile; fileRef = A39E116C1F798AD1004FD7BA /* UIImage+ImageEffects.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +72,22 @@
 		A39E11481F798836004FD7BA /* AppReviewUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AppReviewUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A39E114C1F798836004FD7BA /* AppReviewUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppReviewUITests.m; sourceTree = "<group>"; };
 		A39E114E1F798836004FD7BA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A39E115A1F798A71004FD7BA /* BSKeyboardControls.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BSKeyboardControls.h; sourceTree = "<group>"; };
+		A39E115B1F798A71004FD7BA /* BSKeyboardControls.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BSKeyboardControls.m; sourceTree = "<group>"; };
+		A39E11601F798AD1004FD7BA /* SCLAlertView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SCLAlertView.h; sourceTree = "<group>"; };
+		A39E11611F798AD1004FD7BA /* SCLAlertView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SCLAlertView.m; sourceTree = "<group>"; };
+		A39E11621F798AD1004FD7BA /* SCLAlertViewResponder.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SCLAlertViewResponder.h; sourceTree = "<group>"; };
+		A39E11631F798AD1004FD7BA /* SCLAlertViewResponder.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SCLAlertViewResponder.m; sourceTree = "<group>"; };
+		A39E11641F798AD1004FD7BA /* SCLAlertViewStyleKit.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SCLAlertViewStyleKit.h; sourceTree = "<group>"; };
+		A39E11651F798AD1004FD7BA /* SCLAlertViewStyleKit.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SCLAlertViewStyleKit.m; sourceTree = "<group>"; };
+		A39E11661F798AD1004FD7BA /* SCLButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SCLButton.h; sourceTree = "<group>"; };
+		A39E11671F798AD1004FD7BA /* SCLButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SCLButton.m; sourceTree = "<group>"; };
+		A39E11681F798AD1004FD7BA /* SCLMacros.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SCLMacros.h; sourceTree = "<group>"; };
+		A39E11691F798AD1004FD7BA /* SCLTimerDisplay.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SCLTimerDisplay.h; sourceTree = "<group>"; };
+		A39E116A1F798AD1004FD7BA /* SCLTimerDisplay.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SCLTimerDisplay.m; sourceTree = "<group>"; };
+		A39E116B1F798AD1004FD7BA /* UIImage+ImageEffects.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImage+ImageEffects.h"; sourceTree = "<group>"; };
+		A39E116C1F798AD1004FD7BA /* UIImage+ImageEffects.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImage+ImageEffects.m"; sourceTree = "<group>"; };
+		A3D8961B200792880092E712 /* StoreKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = StoreKit.framework; path = System/Library/Frameworks/StoreKit.framework; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,6 +122,7 @@
 				A39E11401F798836004FD7BA /* AppReviewTests */,
 				A39E114B1F798836004FD7BA /* AppReviewUITests */,
 				A39E11251F798836004FD7BA /* Products */,
+				A3D8961A200792870092E712 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -101,6 +139,8 @@
 		A39E11261F798836004FD7BA /* AppReview */ = {
 			isa = PBXGroup;
 			children = (
+				A39E117F1F798AD7004FD7BA /* KeyboardManager */,
+				A39E115F1F798AB3004FD7BA /* AlertManager */,
 				A39E112A1F798836004FD7BA /* AppDelegate.h */,
 				A39E112B1F798836004FD7BA /* AppDelegate.m */,
 				A39E112D1F798836004FD7BA /* ViewController.h */,
@@ -138,6 +178,43 @@
 				A39E114E1F798836004FD7BA /* Info.plist */,
 			);
 			path = AppReviewUITests;
+			sourceTree = "<group>";
+		};
+		A39E115F1F798AB3004FD7BA /* AlertManager */ = {
+			isa = PBXGroup;
+			children = (
+				A39E11601F798AD1004FD7BA /* SCLAlertView.h */,
+				A39E11611F798AD1004FD7BA /* SCLAlertView.m */,
+				A39E11621F798AD1004FD7BA /* SCLAlertViewResponder.h */,
+				A39E11631F798AD1004FD7BA /* SCLAlertViewResponder.m */,
+				A39E11641F798AD1004FD7BA /* SCLAlertViewStyleKit.h */,
+				A39E11651F798AD1004FD7BA /* SCLAlertViewStyleKit.m */,
+				A39E11661F798AD1004FD7BA /* SCLButton.h */,
+				A39E11671F798AD1004FD7BA /* SCLButton.m */,
+				A39E11681F798AD1004FD7BA /* SCLMacros.h */,
+				A39E11691F798AD1004FD7BA /* SCLTimerDisplay.h */,
+				A39E116A1F798AD1004FD7BA /* SCLTimerDisplay.m */,
+				A39E116B1F798AD1004FD7BA /* UIImage+ImageEffects.h */,
+				A39E116C1F798AD1004FD7BA /* UIImage+ImageEffects.m */,
+			);
+			name = AlertManager;
+			sourceTree = "<group>";
+		};
+		A39E117F1F798AD7004FD7BA /* KeyboardManager */ = {
+			isa = PBXGroup;
+			children = (
+				A39E115A1F798A71004FD7BA /* BSKeyboardControls.h */,
+				A39E115B1F798A71004FD7BA /* BSKeyboardControls.m */,
+			);
+			name = KeyboardManager;
+			sourceTree = "<group>";
+		};
+		A3D8961A200792870092E712 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				A3D8961B200792880092E712 /* StoreKit.framework */,
+			);
+			name = Frameworks;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -276,9 +353,16 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A39E116D1F798AD1004FD7BA /* SCLAlertView.m in Sources */,
 				A39E112F1F798836004FD7BA /* ViewController.m in Sources */,
+				A39E11731F798AD1004FD7BA /* SCLAlertViewStyleKit.m in Sources */,
+				A39E115C1F798A71004FD7BA /* BSKeyboardControls.m in Sources */,
+				A39E11791F798AD1004FD7BA /* SCLTimerDisplay.m in Sources */,
+				A39E11761F798AD1004FD7BA /* SCLButton.m in Sources */,
+				A39E117C1F798AD1004FD7BA /* UIImage+ImageEffects.m in Sources */,
 				A39E112C1F798836004FD7BA /* AppDelegate.m in Sources */,
 				A39E11291F798836004FD7BA /* main.m in Sources */,
+				A39E11701F798AD1004FD7BA /* SCLAlertViewResponder.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -286,7 +370,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A39E117D1F798AD1004FD7BA /* UIImage+ImageEffects.m in Sources */,
+				A39E11741F798AD1004FD7BA /* SCLAlertViewStyleKit.m in Sources */,
 				A39E11421F798836004FD7BA /* AppReviewTests.m in Sources */,
+				A39E11711F798AD1004FD7BA /* SCLAlertViewResponder.m in Sources */,
+				A39E115D1F798A71004FD7BA /* BSKeyboardControls.m in Sources */,
+				A39E11771F798AD1004FD7BA /* SCLButton.m in Sources */,
+				A39E116E1F798AD1004FD7BA /* SCLAlertView.m in Sources */,
+				A39E117A1F798AD1004FD7BA /* SCLTimerDisplay.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -294,7 +385,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A39E117E1F798AD1004FD7BA /* UIImage+ImageEffects.m in Sources */,
+				A39E11751F798AD1004FD7BA /* SCLAlertViewStyleKit.m in Sources */,
 				A39E114D1F798836004FD7BA /* AppReviewUITests.m in Sources */,
+				A39E11721F798AD1004FD7BA /* SCLAlertViewResponder.m in Sources */,
+				A39E115E1F798A71004FD7BA /* BSKeyboardControls.m in Sources */,
+				A39E11781F798AD1004FD7BA /* SCLButton.m in Sources */,
+				A39E116F1F798AD1004FD7BA /* SCLAlertView.m in Sources */,
+				A39E117B1F798AD1004FD7BA /* SCLTimerDisplay.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -516,6 +614,7 @@
 				A39E11531F798836004FD7BA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A39E11541F798836004FD7BA /* Build configuration list for PBXNativeTarget "AppReviewTests" */ = {
 			isa = XCConfigurationList;
@@ -524,6 +623,7 @@
 				A39E11561F798836004FD7BA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A39E11571F798836004FD7BA /* Build configuration list for PBXNativeTarget "AppReviewUITests" */ = {
 			isa = XCConfigurationList;
@@ -532,6 +632,7 @@
 				A39E11591F798836004FD7BA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
